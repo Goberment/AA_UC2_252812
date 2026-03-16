@@ -4,14 +4,14 @@
  */
 package Pruebas;
 
-import Algoritmos.Burbuja;
+import AlgoritmosBurbuja.Burbuja;
 import java.util.Scanner;
 
 /**
  *
  * @author jcmc3
  */
-public class Main {
+public class MainBurbuja {
      public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         Burbuja ordenador = new Burbuja();

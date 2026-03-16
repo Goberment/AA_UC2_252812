@@ -4,7 +4,7 @@
  */
 package Pruebas;
 
-import Ordenamienti.OrdenamientoSeleccion;
+import OrdenamientoSeleccion.OrdenamientoSeleccion;
 
 /**
  *
